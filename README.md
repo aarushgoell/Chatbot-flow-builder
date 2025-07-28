@@ -7,6 +7,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.11-purple.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-7.0.4-orange.svg)](https://vitejs.dev/)
 
+### 🌐 **Live Demo**
+**[Try the Chatbot Flow Builder Online](https://chatbot-flow-builder-eosin-kappa.vercel.app/)**
+
 ---
 
 ## 📖 Overview
